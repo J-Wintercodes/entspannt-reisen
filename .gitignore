@@ -1,0 +1,5 @@
+# Persönliche Einstellungen (API-Keys, DB-Login, Reisedaten)
+.entspannt_reisen.json
+__pycache__/
+*.pyc
+err.log
